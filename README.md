@@ -39,7 +39,7 @@
   💌 Contatos: ⤵️
 </p>
 
-<p align="left">
+<p align="right">
   <a href="mailto:ozymandiasphp@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-lima-74441b1b1/" title="LinkedIn">
