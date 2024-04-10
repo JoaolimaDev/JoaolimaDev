@@ -1,4 +1,6 @@
+<p align="left"> 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolimaDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align="left"> 
   Olá me chamo João vitor, programandor <strong>FULLSTACK</strong> a três anos,
