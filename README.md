@@ -1,5 +1,4 @@
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolimaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="left">
 
 <p align="right"> 
   Olá me chamo João vitor, programandor <strong>FULLSTACK</strong> a três anos,
@@ -8,11 +7,13 @@
   no momento procuro especialização nas stacks voltadas ao backend e ao manuseio de dados.
 </p>
 
- <p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolimaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+
+ <p align="left">
    🦄 Linguagens: 
  </p>
 
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
