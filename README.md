@@ -1,9 +1,9 @@
 
 
 <p align="right"> 
-  Olá me chamo João vitor, programandor <strong>FULLSTACK</strong> a três anos,
+  Olá me chamo João vitor, programador <strong>FULLSTACK</strong> a três anos,
   iniciei na programação através da transição de carreiras, com experiência anterior
-  no tratamento de dados estatistícos, me apaixonei e encontrei uma casa no desenvolvimento de software,
+  no tratamento de dados estatísticos, me apaixonei e encontrei uma casa no desenvolvimento de software,
   no momento procuro especialização nas stacks voltadas ao backend e ao manuseio de dados.
 </p>
 
