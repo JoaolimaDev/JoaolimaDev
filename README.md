@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolimaDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
   Olá me chamo João vitor, programandor <strong>FULLSTACK</strong> a três anos,
