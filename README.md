@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolimaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolimaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
   Olá me chamo João vitor, programandor <strong>FULLSTACK</strong> a três anos,
