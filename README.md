@@ -34,7 +34,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+  <p align="right">
     <a href="https://nxkc5p-5173.csb.app/" align="right">Da uma olhadinha no meu portfolio 2D</a>
+  </p>p
 <p align="left">
   💌 Contatos: ⤵️
 </p>
