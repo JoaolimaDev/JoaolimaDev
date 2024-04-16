@@ -35,11 +35,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-
-  <p align="right">
-    Dâ uma olhadinha no meu portfolio 2d : https://nxkc5p-5173.csb.app/
-  </p>
-
+    <a href="https://nxkc5p-5173.csb.app/">Dâ uma olhadinha no meu portfolio 2d</a>
 <p align="left">
   💌 Contatos: ⤵️
 </p>
