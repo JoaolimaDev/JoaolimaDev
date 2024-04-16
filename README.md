@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
-  <p align="right">
-    <a href="https://nxkc5p-5173.csb.app/" align="right">Da uma olhadinha no meu portfolio 2D</a>
-  </p>
 <p align="left">
   💌 Contatos: ⤵️
 </p>
@@ -50,5 +46,9 @@
   <a href="https://wa.me/5581989553431" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
+
+ <h2 align="right">
+    <a href="https://nxkc5p-5173.csb.app/" align="right">Da uma olhadinha no meu portfolio 2D</a>
+  </h2>
 
 
