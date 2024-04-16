@@ -37,7 +37,7 @@
 
 
   <p align="right">
-    teste
+    Dâ uma olhadinha no meu portfolio 2d : https://nxkc5p-5173.csb.app/
   </p>
 
 <p align="left">
