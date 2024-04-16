@@ -49,7 +49,7 @@
 
  <h3 align="right">
    :octocat:
-    <a href="https://nxkc5p-5173.csb.app/" align="right">Da uma olhadinha no meu portfolio 2D</a>
+    <a href="https://nxkc5p-5173.csb.app/" align="right">Dê uma olhadinha no meu portfólio 2D.</a>
   </h3>
 
 
