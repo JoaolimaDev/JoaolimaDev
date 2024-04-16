@@ -37,7 +37,7 @@
 
   <p align="right">
     <a href="https://nxkc5p-5173.csb.app/" align="right">Da uma olhadinha no meu portfolio 2D</a>
-  </p>p
+  </p>
 <p align="left">
   💌 Contatos: ⤵️
 </p>
