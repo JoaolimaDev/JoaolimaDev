@@ -47,9 +47,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
 
- <h3 align="right">
-   :octocat:
-    <a href="https://fgs8yj-5173.csb.app/" align="right">Dê uma olhadinha no meu portfólio 2D.</a>
-  </h3>
 
 
