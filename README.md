@@ -2,16 +2,14 @@
 import Desenvolvedor from "JoaolimaDev";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "João vitor de lima";
+  area = "Desenvolvimento Fullstack";
+  local = "Recife - PE";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["JAVA", "JAVASCRIPT", "PHP"];
+  frameworks = ["SPRING BOOT", "ANGULAR", "REACT"];
 }
 ```
 
