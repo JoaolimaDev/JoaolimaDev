@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["JAVA", "JAVASCRIPT", "PHP"];
-  frameworks = ["SPRING BOOT", "ANGULAR", "REACT"];
+  frameworks = ["SPRING BOOT", "ANGULAR", "REACT", "LARAVEL"];
 }
 ```
 
